@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thoufiq8072
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Express.js
+- 👀 I’m interested in Data Engineering and Web Development
+- 🌱 I’m currently learning Kafka
 - 📫 How to reach me mohammedthoufiq9360@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm the honored One
